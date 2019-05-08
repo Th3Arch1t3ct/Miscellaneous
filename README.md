@@ -2,7 +2,7 @@
 This repo is a storage for different computer science topics and contains a list of different topics I would like to explore/implement
 
 ### Sorting Algorithms
-- [ ] Heap Sort
+- [x] Heap Sort
 - [x] Merge Sort
 - [x] Quick Sort
 - [ ] Radix Sort
@@ -14,7 +14,7 @@ This repo is a storage for different computer science topics and contains a list
 ### Data Structures
 - [ ] Singly Linked List
 - [ ] Doubly Linked List
--  [ ] Circularly Linked List
+- [ ] Circularly Linked List
 - [ ] Stack
 - [ ] Queue
 - [ ] Binary Tree
